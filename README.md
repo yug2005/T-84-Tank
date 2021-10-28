@@ -1,5 +1,7 @@
 # T-84 Tank 
 
+<img src="https://raw.githubusercontent.com/yug2005/T-84-Tank/master/Project%20Images/T-84%20Tank%20Preview%20Image%2001.png"/>
+
 ## Summary
 
 This blender project contains an incomplete 3D modelling of the tank "T-84". The model currently has a total of 22,572 triangles.
